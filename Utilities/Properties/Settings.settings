@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Utilities.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConvertBackNotSupported" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.ConvertBack function is not supported</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawTools", "DrawTools\DrawTools.csproj", "{8F795199-4239-4AFA-81DF-40C98813BD43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawToolsLib", "DrawToolsLib\DrawToolsLib.csproj", "{04456DDE-AF72-4B83-9132-5AFC5F89CC76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Utilities\Utilities.csproj", "{A357694B-37A2-40B4-8F3C-537F19675612}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F795199-4239-4AFA-81DF-40C98813BD43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F795199-4239-4AFA-81DF-40C98813BD43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F795199-4239-4AFA-81DF-40C98813BD43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F795199-4239-4AFA-81DF-40C98813BD43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04456DDE-AF72-4B83-9132-5AFC5F89CC76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04456DDE-AF72-4B83-9132-5AFC5F89CC76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04456DDE-AF72-4B83-9132-5AFC5F89CC76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04456DDE-AF72-4B83-9132-5AFC5F89CC76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A357694B-37A2-40B4-8F3C-537F19675612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A357694B-37A2-40B4-8F3C-537F19675612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A357694B-37A2-40B4-8F3C-537F19675612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A357694B-37A2-40B4-8F3C-537F19675612}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

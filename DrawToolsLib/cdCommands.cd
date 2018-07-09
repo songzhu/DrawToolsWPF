@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="DrawToolsLib.CommandBase" Collapsed="true">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Command.cs</FileName>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.CommandAdd" Collapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CommandAdd.cs</FileName>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.CommandChangeOrder" Collapsed="true">
+    <Position X="2.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>CommandChangeOrder.cs</FileName>
+      <HashCode>AAAAAAAAEgAABAAAAAAAgAABAKAAAAAAAQAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.CommandChangeState" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <FileName>CommandChangeState.cs</FileName>
+      <HashCode>AAAAAAAAAgAABAAAAAAAAAABAKAAAAAAAQAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.CommandDelete" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>CommandDelete.cs</FileName>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAABABAAAAAAAAAAAAAAAAI=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.CommandDeleteAll" Collapsed="true">
+    <Position X="1.5" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>CommandDeleteAll.cs</FileName>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAABABAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

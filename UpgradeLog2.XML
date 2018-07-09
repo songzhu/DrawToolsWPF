@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DrawToolsWPF">
+</Property><Property Name="解决方案文件" Value="F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\DrawToolsWPF.sln">
+</Property><Property Name="用户选项文件" Value="F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\DrawToolsWPF.suo">
+</Property><Property Name="Date" Value="2010年10月26日">
+</Property><Property Name="Time" Value="10:37">
+</Property><Property Name="日志号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DrawToolsWPF.sln" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsWPF.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DrawToolsWPF.suo" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsWPF.suo">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\DrawTools.csproj" Description="项目文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\DrawTools.csproj">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\App.xaml.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\MainWindow.xaml.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\MainWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\AboutWindow.xaml.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\AboutWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\Settings.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\Settings.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\SettingsManager.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\SettingsManager.cs">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\Properties\Settings.settings" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\Properties\Resources.resx" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\App.xaml" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\App.xaml">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\About.xaml" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\About.xaml">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\AboutWindow.xaml" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\AboutWindow.xaml">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\MainWindow.xaml" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawTools\MainWindow.xaml">
+</Event><Event ErrorLevel="1" Project="DrawTools" Source="DrawTools\DrawTools.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\DrawTools.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DrawTools" Source="DrawTools\DrawTools.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\DrawToolsLib.csproj" Description="项目文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\DrawToolsLib.csproj">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Command.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Command.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\CommandAdd.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\CommandAdd.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\CommandChangeOrder.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\CommandChangeOrder.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\CommandChangeState.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\CommandChangeState.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\CommandDelete.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\CommandDelete.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\CommandDeleteAll.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\CommandDeleteAll.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Definitions.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Definitions.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\DrawingCanvas.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\DrawingCanvas.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\DrawingCanvasException.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\DrawingCanvasException.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\FontConversions.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\FontConversions.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsBase.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsBase.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsText.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsText.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\SerializationHelper.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\SerializationHelper.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\PropertiesGraphicsText.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\PropertiesGraphicsText.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolEllipse.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolEllipse.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolLine.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolLine.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolObject.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolObject.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolPointer.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolPointer.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolPolyLine.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolPolyLine.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolRectangle.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolRectangle.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\HelperFunctions.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\HelperFunctions.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsEllipse.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsEllipse.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsLine.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsLine.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsPolyLine.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsPolyLine.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsRectangle.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsRectangle.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsRectangleBase.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsRectangleBase.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\GraphicsSelectionRectangle.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\GraphicsSelectionRectangle.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\PropertiesGraphicsBase.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\PropertiesGraphicsBase.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\PropertiesGraphicsEllipse.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\PropertiesGraphicsEllipse.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\PropertiesGraphicsLine.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\PropertiesGraphicsLine.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\PropertiesGraphicsPolyLine.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\PropertiesGraphicsPolyLine.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\PropertiesGraphicsRectangle.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\PropertiesGraphicsRectangle.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Tool.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Tool.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolRectangleBase.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolRectangleBase.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolText.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolText.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\ToolTypeConverter.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\ToolTypeConverter.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\UndoManager.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\UndoManager.cs">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Images\Ellipse.cur" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Images\Ellipse.cur">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Images\Line.cur" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Images\Line.cur">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Images\Pencil.cur" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Images\Pencil.cur">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Images\PolyHandle.cur" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Images\PolyHandle.cur">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Images\Rectangle.cur" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Images\Rectangle.cur">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\app.config" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\app.config">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\cdCommands.cd" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\cdCommands.cd">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\cdGraphics.cd" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\cdGraphics.cd">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Images\Text.cur" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Images\Text.cur">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Properties\Settings.settings" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\cdTools.cd" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\cdTools.cd">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\Properties\Resources.resx" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\DrawToolsLib\Properties\Resources.resx">
+</Event><Event ErrorLevel="1" Project="DrawToolsLib" Source="DrawToolsLib\DrawToolsLib.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\DrawToolsLib.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DrawToolsLib" Source="DrawToolsLib\DrawToolsLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Utilities.csproj" Description="项目文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\Utilities.csproj">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\ColorDialog.xaml.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\ColorDialog.xaml.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\ColorToBrushConverter.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\ColorToBrushConverter.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\DoubleToDecimalConverter.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\DoubleToDecimalConverter.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\DoubleToIntegerConverter.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\DoubleToIntegerConverter.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\FontDialog.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\FontDialog.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\FontSizeConverter.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\FontSizeConverter.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Lister.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\Lister.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\MruFileOpenEventArgs.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\MruFileOpenEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\MruInfo.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\MruInfo.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\MruManager.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\MruManager.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Properties\AssemblyInfo.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Properties\Resources.Designer.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Properties\Settings.Designer.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\TextBoxWithLister.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\TextBoxWithLister.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\WindowStateInfo.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\WindowStateInfo.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\WindowStateManager.cs" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\WindowStateManager.cs">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\app.config" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\app.config">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Properties\Settings.settings" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Properties\Resources.resx" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\ColorDialog.xaml" Description="文件已成功备份为 F:\WPF\wpf\DrawToolsWPF\DrawToolsWPF\Backup1\Utilities\ColorDialog.xaml">
+</Event><Event ErrorLevel="1" Project="Utilities" Source="Utilities\Utilities.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Utilities.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Utilities" Source="Utilities\Utilities.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DrawToolsWPF.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DrawToolsWPF.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawTools" Source="DrawTools\DrawTools.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DrawToolsLib" Source="DrawToolsLib\DrawToolsLib.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Utilities" Source="Utilities\Utilities.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

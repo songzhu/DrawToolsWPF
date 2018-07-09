@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="DrawToolsLib.GraphicsBase" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GraphicsBase.cs</FileName>
+      <HashCode>AIACAAoCAIAAFgA4GAACgAQgAABYEAABAUAAAkAQQBA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.GraphicsEllipse" Collapsed="true">
+    <Position X="2.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GraphicsEllipse.cs</FileName>
+      <HashCode>AAAAAAIAAAAAAgAAAAAAAAAAAAAQAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.GraphicsLine" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GraphicsLine.cs</FileName>
+      <HashCode>AIIAAAIAAKAAAgAgAAACAAAAAAAQAAAAAQAAAEAQJAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.GraphicsPolyLine" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GraphicsPolyLine.cs</FileName>
+      <HashCode>AIAAIAKCAIAQAgAiAAACAAAgBAAQCAAAAQAAAEAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.GraphicsRectangle" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>GraphicsRectangle.cs</FileName>
+      <HashCode>AAAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.GraphicsRectangleBase" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>GraphicsRectangleBase.cs</FileName>
+      <HashCode>AIAAAAAAAJAAQAggEAASAAAAAAA4AAAACQCAAEAAAAQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.GraphicsSelectionRectangle" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <FileName>GraphicsSelectionRectangle.cs</FileName>
+      <HashCode>AAAAAAIAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DrawToolsLib.GraphicsText" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>GraphicsText.cs</FileName>
+      <HashCode>QABAAEIAQAAAAgAAiAAAAAAAAAAAgAAIBIACCAQQAgA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

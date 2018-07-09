@@ -1,0 +1,38 @@
+<!-- Light version of FlowDocumentReader -->
+<FlowDocumentScrollViewer xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                          VerticalScrollBarVisibility="Auto">
+    <FlowDocument
+        ColumnWidth="400" FontSize="14" FontFamily="Tahoma" Background="AliceBlue">
+
+        <Paragraph TextAlignment="Center" FontSize="28" LineHeight="16" Foreground="Blue">
+            WPF Draw Tools
+        </Paragraph>
+
+        <Paragraph>
+            Version: <Bold>1.0</Bold>
+        </Paragraph>
+
+        <Paragraph>
+            Written by: <Bold>Alex Farber</Bold> 2008
+        </Paragraph>
+
+        <Paragraph>
+            <Hyperlink NavigateUri="mailto:alexf2062@yahoo.com">
+                alexf2062@yahoo.com
+            </Hyperlink>
+        </Paragraph>
+
+        <Paragraph TextAlignment="Center" FontSize="18">
+            Software used:
+        </Paragraph>
+
+        <Paragraph>
+            Charles Petzold
+            <LineBreak/>
+            <Hyperlink ToolTip="http://www.charlespetzold.com/wpf" NavigateUri="http://www.charlespetzold.com/wpf">
+                Applications = Code + Markup
+            </Hyperlink>
+        </Paragraph>
+
+    </FlowDocument>
+</FlowDocumentScrollViewer>
